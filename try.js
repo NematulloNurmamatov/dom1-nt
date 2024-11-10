@@ -79,3 +79,4 @@ function searchSoccerByTeam() {
         console.log(`"${searchTeam}" jamoasida futbolchilar topilmadi.`);
     }
 }
+
