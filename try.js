@@ -1,6 +1,5 @@
 // // masala 1
 
-
 function Soccer(name, number, position, team) {
     if (!isNaN(name)) {
         throw new Error("O'yinchi nomiga raqam kiritib bo'lmaydi!");
